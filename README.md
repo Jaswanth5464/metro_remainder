@@ -1,4 +1,9 @@
+<p align="center">
+  <img src="assets/logo.png" alt="Metro Wake-Up Logo" width="120" height="120">
+</p>
+
 # 🚇 Metro Wake-Up: Hyderabad Metro Offline-First Journey Assistant
+
 
 [![Flutter](https://img.shields.io/badge/Flutter-v3.0+-02569B?logo=flutter&logoColor=white)](https://flutter.dev)
 [![Dart](https://img.shields.io/badge/Dart-v3.0+-0175C2?logo=dart&logoColor=white)](https://dart.dev)
