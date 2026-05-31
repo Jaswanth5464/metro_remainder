@@ -16,26 +16,15 @@ A production-grade, privacy-first **offline-first** travel companion application
 ---
 
 ## 📷 Screenshots / Application UI
-home entry-title page:
-![alt text](assets/readme/image.png)
 
-menupage:
-![alt text](assets/readme/image-1.png)
+| 📱 Home Entry | 📋 Main Menu | 🗺️ Route Selection |
+| :---: | :---: | :---: |
+| <img src="assets/readme/image.png" width="220" alt="Home Entry Screen"> | <img src="assets/readme/image-1.png" width="220" alt="Main Menu Screen"> | <img src="assets/readme/image-2.png" width="220" alt="Route Selection Screen"> |
 
-routemenu page:
-![alt text](assets/readme/image-2.png)
+| 📍 Live Journey | 🚨 Alert & Alarm | 🔍 Station Search | 🗺️ Offline Metro Maps |
+| :---: | :---: | :---: | :---: |
+| <img src="assets/readme/image-3.png" width="220" alt="Live Journey Screen"> | <img src="assets/readme/image-4.png" width="220" alt="Alert Screen"> | <img src="assets/readme/image-5.png" width="220" alt="Station Search Screen"> | <img src="assets/readme/image-6.png" width="220" alt="Offline Map Screen"> |
 
-journey page:
-![alt text](assets/readme/image-3.png)
-
-alert page:
-![alt text](assets/readme/image-4.png)
-
-search page:
-![alt text](assets/readme/image-5.png)
-
-maps page:
-![alt text](assets/readme/image-6.png)
 
 
 ---
