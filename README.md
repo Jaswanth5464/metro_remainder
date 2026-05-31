@@ -16,8 +16,26 @@ A production-grade, privacy-first **offline-first** travel companion application
 ---
 
 ## 📷 Screenshots / Application UI
+home entry-title page:
+![alt text](assets/readme/image.png)
 
+menupage:
+![alt text](assets/readme/image-1.png)
 
+routemenu page:
+![alt text](assets/readme/image-2.png)
+
+journey page:
+![alt text](assets/readme/image-3.png)
+
+alert page:
+![alt text](assets/readme/image-4.png)
+
+search page:
+![alt text](assets/readme/image-5.png)
+
+maps page:
+![alt text](assets/readme/image-6.png)
 
 
 ---
