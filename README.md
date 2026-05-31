@@ -21,9 +21,10 @@ A production-grade, privacy-first **offline-first** travel companion application
 | :---: | :---: | :---: |
 | <img src="assets/readme/image.png" width="220" alt="Home Entry Screen"> | <img src="assets/readme/image-1.png" width="220" alt="Main Menu Screen"> | <img src="assets/readme/image-2.png" width="220" alt="Route Selection Screen"> |
 
-| 📍 Live Journey | 🚨 Alert & Alarm | 🔍 Station Search | 🗺️ Offline Metro Maps |
-| :---: | :---: | :---: | :---: |
-| <img src="assets/readme/image-3.png" width="220" alt="Live Journey Screen"> | <img src="assets/readme/image-4.png" width="220" alt="Alert Screen"> | <img src="assets/readme/image-5.png" width="220" alt="Station Search Screen"> | <img src="assets/readme/image-6.png" width="220" alt="Offline Map Screen"> |
+| 📍 Live Journey | 🚨 Alert & Alarm | 🔍 Station Search | 🗺️ Offline Metro Maps | ⚙️ Settings Page |
+| :---: | :---: | :---: | :---: | :---: |
+| <img src="assets/readme/image-3.png" width="220" alt="Live Journey Screen"> | <img src="assets/readme/image-4.png" width="220" alt="Alert Screen"> | <img src="assets/readme/image-5.png" width="220" alt="Station Search Screen"> | <img src="assets/readme/image-6.png" width="220" alt="Offline Map Screen"> | <img src="assets/readme/image-7.png" width="220" alt="Settings Screen"> |
+
 
 
 
