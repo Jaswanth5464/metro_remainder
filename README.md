@@ -16,16 +16,9 @@ A production-grade, privacy-first **offline-first** travel companion application
 ---
 
 ## 📷 Screenshots / Application UI
-*(Add your screenshots here to show off the premium design aesthetics!)*
 
-| 📱 Home Screen | 🚇 Route Selection | 📍 Live Journey Tracking | 🚨 Alarm Takeover Screen |
-| :---: | :---: | :---: | :---: |
-| ![Home UI](<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/c50fbf2d-7fb9-4118-9e76-c6ac5c48772a" />
-) | ![Route UI](<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/da0464b5-f69e-4d24-8735-208863a4a735" />
 
-) | ![Live UI](<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/74801f8e-5d03-49b4-a086-1a95e68a103f" />
-) | ![Alarm UI](<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/5c9f86cd-b152-42d0-9ca4-861578a900a0" />
-) |
+
 
 ---
 
